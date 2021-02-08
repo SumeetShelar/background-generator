@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    letter-spacing: .5em;
+    background :linear-gradient(to right, rgb(186, 186, 201), rgb(64, 18, 18));
+    text-transform: uppercase;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+h3 {
+    text-transform: none;
+    letter-spacing: 0.05em;
+}
